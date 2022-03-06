@@ -8,4 +8,5 @@ package com.fwk.test;
  */
 public class Person {
     private Integer id;
+    private String name;
 }
