@@ -7,5 +7,6 @@ package com.fwk.test;
  * @version: 1.0
  */
 public class Student {
-
+    private Integer age;
+    private String name;
 }
